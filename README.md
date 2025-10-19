@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=400&color=2F9BDB&center=true&vCenter=true&width=850&height=200&lines=Hi+there!+%E3%83%BE(%EF%BC%BE%E2%88%87%EF%BC%BE);You+can+call+me+Alline+%CB%86%E1%97%9C%CB%86;Pixels%2C+Code+%26+a+Dash+of+Data+%F0%90%94%8C%CB%99." alt="Typing SVG" />
+  </a>
+</div>
 
-<!--
-**importalline/importalline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/importalline">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=importalline&show_icons=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/importalline">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=transparent" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div align="center" style="display: inline-block"><br>
+  <img style="border: none;" align="center" alt="Line-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img style="border: none;" align="center" alt="Line-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img style="border: none;" align="center" alt="Line-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+  <img style="border: none;" align="center" alt="Line-Nodem" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg">
+  <img style="border: none;" align="center" alt="Line-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img style="border: none;" align="center" alt="Line-Num" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
+  <img style="border: none;" align="center" alt="Line-Panda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
+  <img style="border: none;" align="center" alt="Line-Mat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">
+  <img style="border: none;" align="center" alt="Line-Plot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg">
+  <img style="border: none;" align="center" alt="Line-Jup" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div align="center">
+ <a href="https://discord.com/users/245639279902982144" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:allinevenciguerra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/alline-venciguerra-69a510318/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/RH92wCK.gif" alt="Final GIF" />
+</div>
