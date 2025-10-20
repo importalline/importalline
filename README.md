@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=400&color=2F9BDB&center=true&vCenter=true&width=850&height=200&lines=Hi+there!+%E3%83%BE(%EF%BC%BE%E2%88%87%EF%BC%BE);You+can+call+me+Alline+%CB%86%E1%97%9C%CB%86;Pixels%2C+Code+%26+a+Dash+of+Data+%F0%90%94%8C%CB%99." alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=400&color=2F9BDB&center=true&width=850&height=100&lines=Hi+there!+%E3%83%BE(%EF%BC%BE%E2%88%87%EF%BC%BE);You+can+call+me+Alline+%CB%86%E1%97%9C%CB%86;Pixels%2C+Code+%26+a+Dash+of+Data+%F0%90%94%8C%CB%99." alt="Typing SVG" /></a>
   </a>
 </div>
 
@@ -37,3 +37,8 @@
 <div align="center">
   <img src="https://i.imgur.com/RH92wCK.gif" alt="Final GIF" />
 </div>
+
+<div align="center">
+  <img src="b86485f61c20d2864f6153a45060e881-removebg-preview.gif" alt="Final GIF" width="250" />
+</div>
+
