@@ -5,11 +5,11 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/importalline">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=importalline&show_icons=true&theme=transparent" />
+  <a href="https://github.com/importalline" style="display:inline-block; margin-right:16px">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=importalline&show_icons=true&theme=transparent&cachebust=20251021" alt="GitHub stats" />
   </a>
-  <a href="https://github.com/importalline">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=transparent" />
+  <a href="https://github.com/importalline/github-readme-stats" style="display:inline-block">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=importalline&layout=compact" alt="Top Langs" />
   </a>
 </div>
 
