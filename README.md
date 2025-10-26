@@ -35,11 +35,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/RH92wCK.gif" alt="Final GIF" />
-</div>
-
-<div align="center">
-  <img src="b86485f61c20d2864f6153a45060e881-removebg-preview.gif" alt="Final GIF" width="250" />
+  <img src="MIKU.gif" alt="Final GIF" width="850" />
 </div>
 
 <div align="center">
